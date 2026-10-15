@@ -72,11 +72,11 @@ signing and the URL no longer matches.
 
 ## Section B — filled by the contributor
 
-- Date/time (UTC): `________________________________`
-- Machine / environment (OS, online or air-gapped): `________________________________`
-- [ ] I verified the **input zkey sha256** matches Section A exactly.
-- [ ] I verified the **r1cs sha256** and **ptau hashes** match the ceremony constants above.
-- [ ] (Recommended) I ran `npx snarkjs zkey verify unshield.r1cs powersOfTau28_hez_final_15.ptau <input.zkey>`
+- Date/time (UTC): `8:50:42 PM`
+- Machine / environment (OS, online or air-gapped): `windows`
+- [x] I verified the **input zkey sha256** matches Section A exactly.
+- [x] I verified the **r1cs sha256** and **ptau hashes** match the ceremony constants above.
+- [x] (Recommended) I ran `npx snarkjs zkey verify unshield.r1cs powersOfTau28_hez_final_15.ptau <input.zkey>`
       on the input file and saw `ZKey Ok!` before contributing.
 - Exact command run: `npx snarkjs zkey contribute unshield_0004.zkey unshield_0005.zkey --name="cyberWarlock"`
 
@@ -84,7 +84,7 @@ signing and the URL no longer matches.
 - Contribution hash printed by snarkjs: `37f9486c93ca532cffb89d6e901c70dfec70b73145868bceb7bb7258285ea193248038cd327f9652d22c59bce571a5c9780653aa59447ff9c2c84f2cc06a78d5`  *(pre-filled from the verification report — confirm it matches what your terminal printed)*
 
 **Entropy statement.** I generated my contribution entropy by
-`________________________________` (e.g. keyboard mashing plus OS RNG, dice, a hardware RNG).
+`A short poem and random mashing` (e.g. keyboard mashing plus OS RNG, dice, a hardware RNG).
 I have **destroyed all copies** of the entropy and every intermediate secret, and I retained
 nothing that could reconstruct my contribution's toxic waste.
 
