@@ -94,8 +94,8 @@ and of the other contributors, and I have not colluded to reconstruct anyone els
 **Signature.** This exact file is published as a signed commit on GitHub:
 
 - GitHub handle: `cyberWarlock`
-- Commit URL (must show "Verified"): `________________________________`
-- Commit SHA: `________________________________`
+- Commit URL (must show "Verified"): `https://github.com/TheCyberWarlock/darkcircle-attestation/commit/2b2d6c1cf442d990291f06439571b135a542a72b`
+- Commit SHA: `2b2d6c1cf442d990291f06439571b135a542a72b`
 
 ## Section C — coordinator verification checklist
 
